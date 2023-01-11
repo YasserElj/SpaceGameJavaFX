@@ -32,7 +32,7 @@ public class SpaceRunnerSubScene extends SubScene{
 		isHidden = true ;
 		
 		setLayoutX(1024);
-		setLayoutY(180);
+		setLayoutY(220);
 		
 	}
 	
